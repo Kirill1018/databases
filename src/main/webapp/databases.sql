@@ -1,0 +1,1 @@
+create table waste(amount int, target varchar(128))
